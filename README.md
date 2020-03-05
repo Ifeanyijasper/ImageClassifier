@@ -5,7 +5,7 @@ Using an image classification application using a deep learning model called a c
 
 We have provided you with a classifier function in classifier.py that will allow you to use these CNNs to classify your images. The test_classifier.py file contains an example program that demonstrates how to use the classifier function. 
 
-##Principal Objectives
+## Principal Objectives
 . Correctly identify which pet images are of dogs (even if breed is misclassified) and which pet images aren't of dogs.
  
 . Correctly classify the breed of dog, for the images that are of dogs.
@@ -14,4 +14,4 @@ We have provided you with a classifier function in classifier.py that will allow
  
 . Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms take to run.
 
-###If you feel that you need more guidance, please refer to the files ending with_hints.py. In the workspace you will find a hint file for each of the tasks.
+### If you feel that you need more guidance, please refer to the files ending with_hints.py. In the workspace you will find a hint file for each of the tasks.
